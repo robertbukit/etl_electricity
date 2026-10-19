@@ -38,9 +38,9 @@ etl_electricity/
 │   └── load.py             # Database connector: Controls automated DDL and Loop Inserts
 │
 ├── .env                    # Secure workspace configuration (PostgreSQL credentials)
-    ├── main.py             # Central Controller Script (Pipeline Orchestrator)
-    ├── requirement.txt     # All requirement/library dependencies
-    └── README.md           # Pipeline documentation deployment asset
+|── main.py             # Central Controller Script (Pipeline Orchestrator)
+├── requirement.txt     # All requirement/library dependencies
+└── README.md           # Pipeline documentation deployment asset
     ```
 
     ---
