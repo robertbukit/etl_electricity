@@ -46,7 +46,7 @@ etl_electricity/
 
 ## Configuration & Execution Workflow
 
-### 1. Environment Variable Setup (`.env`)
+#### 1. Environment Variable Setup (`.env`)
 Create a `.env` deployment file at the project root directory containing your relational database target specifications:
 ```env
 POSTGRES_USER=your_postgres_username
@@ -54,7 +54,7 @@ POSTGRES_PASSWORD=our_password
 POSTGRES_PORT=5432
 ```
 
-### 2. Manual Pipeline Trigger
+#### 2. Manual Pipeline Trigger
 To execute the automated pipeline sequencing via terminal infrastructure, enter:
 ```powershell
 # Activate local virtual environment
