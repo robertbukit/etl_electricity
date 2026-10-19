@@ -55,7 +55,7 @@ POSTGRES_PASSWORD=our_password
 POSTGRES_PORT=5432
 ```
 
-### 2. Manual Pipeline Trigger
+### Manual Pipeline Trigger
 To execute the automated pipeline sequencing via terminal infrastructure, enter:
 ```powershell
 # Activate local virtual environment
