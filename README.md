@@ -1,4 +1,4 @@
-# End-to-End Real-Time Electricity Data Pipeline (ELT/ETL)
+# End-to-End Real-Time Electricity Data Pipeline (ETL)
 
 ## Overview
 This project implements a robust, end-to-end **Data Engineering Pipeline** following the **ELT (Extract, Load, Transform)** architectural pattern. The pipeline automates the collection of real-time electricity grid metrics ( wholesale price, demand, and carbon intensity) across multiple global zones. Data is fetched via a REST API, securely deposited into a local Data Lake, programmatically flattened and cleaned, structurally mapped into a PostgreSQL Data Warehouse, and fully automated using Windows Task Scheduler.
