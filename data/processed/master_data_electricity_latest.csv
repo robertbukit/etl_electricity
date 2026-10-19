@@ -1,0 +1,241 @@
+Zone,Metric,Value,Unit,Timestamp,Resolution,Updated,Attribution,License
+AT,demand,7444.0,MW,2026-10-16 15:15:00,15m,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,price,189.01,EUR/MWh,2026-10-17 21:45:00,15m,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:DE-LU,-1389.9347699999998,MW,2026-10-16 15:30:00,1h,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:CH,-534.954895,MW,2026-10-16 15:00:00,1h,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:IT-NO,296.4,MW,2026-10-16 15:45:00,1h,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:biomass,577.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:coal,0.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:gas,4276.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:oil,125.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other,1100.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:pumped_storage,4022.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:hydro,2547.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:nuclear,0.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:solar,9766.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind_offshore,0.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind,4140.0,MW,2026-01-01 00:00:00,1y,1792167713,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,demand,7992.4,MW,2026-10-19 05:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,price,185.03,EUR/MWh,2026-10-19 21:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:DE-LU,-742.6663300000001,MW,2026-10-19 06:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:CH,-550.335327,MW,2026-10-19 05:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:IT-NO,259.2,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:biomass,577.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:coal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:gas,4276.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:oil,125.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other,1100.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:pumped_storage,4022.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:hydro,2547.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:nuclear,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:solar,9766.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind_offshore,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind,4140.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,demand,7992.4,MW,2026-10-19 05:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,price,185.03,EUR/MWh,2026-10-19 21:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:DE-LU,-742.6663300000001,MW,2026-10-19 06:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:CH,-550.335327,MW,2026-10-19 05:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:IT-NO,259.2,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:biomass,577.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:coal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:gas,4276.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:oil,125.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other,1100.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:pumped_storage,4022.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:hydro,2547.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:nuclear,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:solar,9766.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind_offshore,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind,4140.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,demand,7806.4,MW,2026-10-19 07:45:00,15m,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,price,185.03,EUR/MWh,2026-10-19 21:45:00,15m,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:DE-LU,-792.0843,MW,2026-10-19 08:15:00,1h,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:CH,790.04187,MW,2026-10-19 08:00:00,1h,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,interchange:to:IT-NO,330.4,MW,2026-10-19 08:30:00,1h,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:biomass,577.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:coal,0.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:gas,4276.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:oil,125.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other,1100.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:pumped_storage,4022.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:hydro,2547.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:nuclear,0.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:solar,9766.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind_offshore,0.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+AT,capacity:wind,4140.0,MW,2026-01-01 00:00:00,1y,1792400884,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+GB,carbon_intensity,127.0,gCO2/kWh,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:biomass,8.8,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:coal,0.0,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:imports,8.9,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:gas,26.3,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:nuclear,13.3,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:other,3.6,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:hydro,2.6,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:solar,6.3,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:wind,30.3,%,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,demand,26999.0,MW,2026-10-16 15:30:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,price,188.64,GBP/MWh,2026-10-16 00:00:00,30m,1792167967,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,carbon_intensity,178.0,gCO2/kWh,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:biomass,10.2,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:coal,0.0,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:imports,4.8,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:gas,37.0,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:nuclear,12.1,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:other,0.0,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:hydro,0.0,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:solar,0.1,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:wind,35.6,%,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,demand,29015.0,MW,2026-10-19 06:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,price,173.33,GBP/MWh,2026-10-19 00:00:00,30m,1792392335,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,carbon_intensity,178.0,gCO2/kWh,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:biomass,7.3,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:coal,0.0,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:imports,3.8,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:gas,37.3,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:nuclear,13.2,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:other,7.5,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:hydro,3.6,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:solar,0.0,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:wind,27.2,%,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,demand,29015.0,MW,2026-10-19 06:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,price,173.33,GBP/MWh,2026-10-19 00:00:00,30m,1792392635,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,carbon_intensity,171.0,gCO2/kWh,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:biomass,9.2,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:coal,0.0,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:imports,7.5,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:gas,36.0,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:nuclear,15.0,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:other,0.0,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:hydro,0.0,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:solar,3.7,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,generation:wind,28.6,%,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,demand,31708.0,MW,2026-10-19 08:30:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+GB,price,173.33,GBP/MWh,2026-10-19 00:00:00,30m,1792401036,Supported by National Energy SO Open Data,NESO-Open-Licence
+NL,demand,12623.106,MW,2026-10-16 15:30:00,15m,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,price,157.79,EUR/MWh,2026-10-17 21:45:00,15m,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DE-LU,1332.81668,MW,2026-10-16 15:30:00,1h,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:BE,1405.099,MW,2026-10-16 15:45:00,1h,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:NO-2,-0.403972,MW,2026-10-16 15:45:00,1h,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DK-1,-95.68,MW,2026-10-16 15:45:00,1h,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:biomass,418.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:coal,4012.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:gas,18412.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:oil,0.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other,1.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:pumped_storage,0.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:hydro,0.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:nuclear,486.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:solar,29282.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind_offshore,4739.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind,7178.0,MW,2026-01-01 00:00:00,1y,1792167711,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,demand,10953.966,MW,2026-10-19 06:00:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,price,165.07,EUR/MWh,2026-10-19 21:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DE-LU,691.56665,MW,2026-10-19 06:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:BE,2394.625,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:NO-2,-0.406342,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DK-1,-497.64,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:biomass,418.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:coal,4012.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:gas,18412.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:oil,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other,1.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:pumped_storage,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:hydro,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:nuclear,486.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:solar,29282.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind_offshore,4739.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind,7178.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,demand,10953.966,MW,2026-10-19 06:00:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,price,165.07,EUR/MWh,2026-10-19 21:45:00,15m,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DE-LU,691.56665,MW,2026-10-19 06:00:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:BE,2394.625,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:NO-2,-0.406342,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DK-1,-497.64,MW,2026-10-19 06:15:00,1h,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:biomass,418.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:coal,4012.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:gas,18412.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:oil,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other,1.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:pumped_storage,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:hydro,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:nuclear,486.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:solar,29282.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind_offshore,4739.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind,7178.0,MW,2026-01-01 00:00:00,1y,1792392473,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,demand,10268.086,MW,2026-10-19 08:15:00,15m,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,price,165.07,EUR/MWh,2026-10-19 21:45:00,15m,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DE-LU,-911.84,MW,2026-10-19 08:30:00,1h,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:BE,2802.08,MW,2026-10-19 08:45:00,1h,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:NO-2,-0.407291,MW,2026-10-19 08:45:00,1h,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,interchange:to:DK-1,-655.84,MW,2026-10-19 08:30:00,1h,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:biomass,418.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:coal,4012.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:gas,18412.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:oil,0.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other,1.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:geothermal,0.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:pumped_storage,0.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:hydro,0.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:nuclear,486.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:other_renewable,0.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:solar,29282.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind_offshore,4739.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+NL,capacity:wind,7178.0,MW,2026-01-01 00:00:00,1y,1792400883,Data: ENTSO-E Transparency Platform,CC-BY-4.0
+US-CAISO,demand,26386.0,MW,2026-10-16 15:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:coal,1.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:geo,697.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:gas,11043.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:nuclear,1112.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:oil,-3.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:other,3647.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:solar,-42.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:hydro,1983.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:wind,2856.0,MW,2026-10-16 06:00:00,1h,1792166522,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,demand,27808.0,MW,2026-10-19 05:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:coal,1.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:geo,688.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:gas,13441.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:nuclear,1106.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:oil,46.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:other,3674.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:solar,-56.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:hydro,2174.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:wind,2558.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,demand,27808.0,MW,2026-10-19 05:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:coal,1.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:geo,688.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:gas,13441.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:nuclear,1106.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:oil,46.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:other,3674.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:solar,-56.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:hydro,2174.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:wind,2558.0,MW,2026-10-18 06:00:00,1h,1792391541,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,demand,23442.0,MW,2026-10-19 08:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:coal,1.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:geo,688.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:gas,13441.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:nuclear,1106.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:oil,46.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:other,3674.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:solar,-56.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:hydro,2174.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-CAISO,generation:wind,2558.0,MW,2026-10-18 06:00:00,1h,1792400552,Source: U.S. Energy Information Administration,public-domain
+US-NYISO,demand,17078.0,MW,2026-10-16 15:00:00,1h,1792166725,Source: U.S. Energy Information Administration,public-domain
+US-NYISO,demand,13657.0,MW,2026-10-19 05:00:00,1h,1792391940,Source: U.S. Energy Information Administration,public-domain
+US-NYISO,demand,13657.0,MW,2026-10-19 05:00:00,1h,1792391940,Source: U.S. Energy Information Administration,public-domain
+US-NYISO,demand,12913.0,MW,2026-10-19 08:00:00,1h,1792400866,Source: U.S. Energy Information Administration,public-domain

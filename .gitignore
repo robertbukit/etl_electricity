@@ -1,0 +1,14 @@
+# Menyembunyikan virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Menyembunyikan file kredensial database (SANGAT PENTING!)
+.env
+
+# Menyembunyikan file error log kustom Anda
+*.log
+
+# Opsional: Jika Anda tidak ingin file data mentah terunggah ke github publik
+data/raw/*.json
