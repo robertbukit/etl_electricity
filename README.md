@@ -42,8 +42,7 @@ etl_electricity/
 ├── requirement.txt         # All requirement/library dependencies
 └── README.md               # Pipeline documentation deployment asset
     ```
-
-    ---
+---
 
 ## Configuration & Execution Workflow
 
