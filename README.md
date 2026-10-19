@@ -41,7 +41,7 @@ etl_electricity/
 |── main.py                 # Central Controller Script (Pipeline Orchestrator)
 ├── requirement.txt         # All requirement/library dependencies
 └── README.md               # Pipeline documentation deployment asset
-    ```
+```
 ---
 
 ## Configuration & Execution Workflow
@@ -54,7 +54,7 @@ POSTGRES_PASSWORD=our_password
 POSTGRES_PORT=5432
 ```
 
-### Manual Pipeline Trigger
+### 2. Manual Pipeline Trigger
 To execute the automated pipeline sequencing via terminal infrastructure, enter:
 ```powershell
 # Activate local virtual environment
