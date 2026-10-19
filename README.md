@@ -73,7 +73,7 @@ python main.py
 
 ---
 
-## Production Verification Records
+
 <img width="960" height="600" alt="Screenshot 2026-10-19 135238" src="https://github.com/user-attachments/assets/242802ed-f3ad-43af-9c0e-33ff6caa11fe" />
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/caedd597-87b4-4f24-ae5c-b307263f7c14" />
 
